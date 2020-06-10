@@ -7,6 +7,8 @@ QA Control Panel is an IT system meant to help QA professionals.
 * provide user-friendly panels to help evaluate results of the tests
 * provide diagrams to show history/trends
 * calculate and report Q/A metrics
+* Simple authentication based on external Active Directory 
+* Internal managment of User's rights (Guest, User, Admin)
 
 ## Software stack
 * PHP
@@ -49,6 +51,8 @@ Team is described by by short, unique name name
 * Admin panel for dictionary of Teams 
 * Admin panel for application parameters
 * Admin panel for internall DB log
+* Admin panel for granting right to Users
+* Admin panel for authentication log
 
 ## Processes
 * Import process for results of tests
