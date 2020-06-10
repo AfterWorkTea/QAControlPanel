@@ -1,6 +1,8 @@
 # QA Control Panel
 
-QA Control Panel is an IT system meant to help QA professionals.
+QA Control Panel is an IT system meant to help QA professionals
+
+Current status: desing 
 
 ## Functionality
 * collect and store test results 
