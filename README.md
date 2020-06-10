@@ -45,6 +45,10 @@ Team is described by by short, unique name name
 * Report Test stability per Job
 * Report top failing Tests/Steps per Job
 * Report most common reasons (technical messages) for failing Tests  per Job
+* Admin panel for dictionary of Catalogs
+* Admin panel for dictionary of Teams 
+* Admin panel for application parameters
+* Admin panel for internall DB log
 
 ## Processes
 * Import process for results of tests
