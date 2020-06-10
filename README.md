@@ -30,13 +30,14 @@ Current status: desing
 * All possible results are per-defined in an internal dictionary
 * All current and historical Teams are per-defined in an internal dictionary
 
-Project is described by a short, unique name name 
-Job is described by a short, unique name name 
-Build is described by a unique natural number kept in sequence
-Test is described by a unique name
-Scenario is described by a unique name
-Catalog is described by a short, unique name name 
-Team is described by by short, unique name name 
+More info
+* Project is described by a short, unique name name 
+* Job is described by a short, unique name name 
+* Build is described by a unique natural number kept in sequence
+* Test is described by a unique name
+* Scenario is described by a unique name
+* Catalog is described by a short, unique name name 
+* Team is described by by short, unique name name 
 
 ## GUI Panels and functions
 * Project selection
