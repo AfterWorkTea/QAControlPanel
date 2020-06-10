@@ -2,19 +2,19 @@
 
 QA Control Panel is an IT system meant to help QA professionals.
 
-##Functionality
+## Functionality
 * collect and store test results 
 * provide user-friendly panels to help evaluate results of the tests
 * provide diagrams to show history/trends
 * calculate and report Q/A metrics
 
-##Software stack
+## Software stack
 * PHP
 * MySQL
 * Apache 
 * HTML 5 + JavaScrtip
 
-##Data structure
+## Data structure
 * Supports one or a few Projects (limited by server resources)
 * Each Project groups one or a few Job
 * Each Job can run multiple multiple times giving Builds
@@ -34,7 +34,7 @@ Scenario is described by a unique name
 Catalog is described by a short, unique name name 
 Team is described by by short, unique name name 
 
-##GUI Panels and functions
+## GUI Panels and functions
 * Project selection
 * Recent Job/Build imports for the selected Panel
 * List of imported Builds per specific Job
@@ -46,7 +46,7 @@ Team is described by by short, unique name name
 * Report top failing Tests/Steps per Job
 * Report most common reasons (technical messages) for failing Tests  per Job
 
-##Processes
+## Processes
 * Import process for results of tests
 * Email notification
 * Chat notifications
