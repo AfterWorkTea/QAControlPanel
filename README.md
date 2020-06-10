@@ -21,7 +21,7 @@ Current status: desing
 ## Data structure
 * Supports one or a few Projects (limited by server resources)
 * Each Project groups one or a few Job
-* Each Job can run multiple multiple times giving Builds
+* Each Job can run multiple times that makes a Build
 * A Build can run one or more tests
 * Each Test can include one or more scenarios
 * Running a Test with Scenarios generates result for each Scenario
